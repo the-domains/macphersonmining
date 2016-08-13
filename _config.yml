@@ -1,0 +1,14 @@
+name: macphersonmining
+layout_spectrum: 0.2501247614085168
+typography_spectrum: 0.948094262423302
+color:
+  brandColors:
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
+  brandStrength: 0.6424869784377588
+  lightness: 0.6316021201378569
+  saturation: 0.7039086592686236
+  rhythmicContrast: 0.8149660392830238
